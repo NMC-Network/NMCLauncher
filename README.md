@@ -2,8 +2,6 @@
 
 <h1 align="center">NMC Launcher</h1>
 
----
-
 
 [<p align="center"><img src="https://img.shields.io/github/downloads/NMC-Network/NMCLauncher/total.svg?style=for-the-badge" alt="downloads">](https://github.com/NMC-Network/NMCLauncher/releases)
 
@@ -11,7 +9,6 @@
 
 ## Downloads
 
----
 
 [![](https://img.shields.io/github/v/release/NMC-Network/NMCLauncher?display_name=release&style=for-the-badge
 )](https://github.com/NMC-Network/NMCLauncher/releases/latest)
@@ -27,7 +24,6 @@
 
 ## Console
 
----
 
 エラーが発生した場合、コンソールを開くことで内容を確認できる場合があります
 ```console
@@ -37,7 +33,6 @@ Ctrl + Shift + I
 
 ## Resources
 
----
 
 * [Website][website]
 * [導入方法][how to install]
